@@ -2,6 +2,10 @@
 
 ## Getting started
 * Clone this repo
+    ```bash
+    git clone https://github.com/student-ambassadors-futo/laravel-vue-app.git
+    ```
+
 * Create a mysql/mariadb database with DB name hnr-ecommerce
 
     ```bash
